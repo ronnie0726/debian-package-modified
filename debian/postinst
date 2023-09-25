@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Execute testing.sh during installation
+/usr/bin/testing.sh
+
